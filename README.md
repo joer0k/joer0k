@@ -78,6 +78,15 @@ It also includes an administration interface for managing the displayed informat
 
 **Technologies:** Python, Flask, SQLAlchemy, Alembic, Jinja2, JavaScript, HTML, CSS
 
+**My contribution:**
+
+* developed most of the user-facing pages;
+* implemented a significant part of the backend logic;
+* developed the administrative panel;
+* implemented and integrated API endpoints;
+* created and connected Jinja templates;
+* participated in integrating the application components within the team.
+
 [View repository](https://github.com/joer0k/school_terminal_project)
 
 ---
@@ -107,9 +116,7 @@ Players explore locations, fight enemies with different characteristics, complet
 * studying algorithms and data structures;
 * improving Django backend development skills;
 * learning SQL and relational databases;
-* improving Git and collaborative development workflows;
-* preparing to build larger production-oriented projects;
-* improving English from B1 toward B2.
+
 
 ## Education
 
@@ -128,4 +135,4 @@ Expected graduation: 2029
 
 * GitHub: [github.com/joer0k](https://github.com/joer0k)
 * Email: [ryabokon.niki08@gmail.com](mailto:ryabokon.niki08@gmail.com)
-* LinkedIn: coming soon
+* LinkedIn: 
